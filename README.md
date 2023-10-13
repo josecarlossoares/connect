@@ -1,2 +1,1 @@
-# connect
 conexão com sequelize
