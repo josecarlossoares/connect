@@ -1,0 +1,2 @@
+# connect
+conexão com sequelize
